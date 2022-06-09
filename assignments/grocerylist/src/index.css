@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#inputlist{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  margin-top: 50px;
+  border: 1px solid gray;
+}
+#inputlist *{
+  border: 1px solid gray;
+}
+#inputlist>button{
+  width: 200px;
+  height: 40px;
+  margin-top: 20px;
+}
+input{
+  margin-left: 500px;
+  margin-top: 30px;
+  width: 300px;
+  padding: 5px;
+}
