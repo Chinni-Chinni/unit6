@@ -16,21 +16,21 @@ const InputTaking = () => {
         }
     );
 
-    const [getdata,setdata] = React.useState([]);
+    const [getdata, setdata] = React.useState([]);
 
-    React.useEffect(()=>{
+    React.useEffect(() => {
         fetch(`http://localhost:3005/products`)
-        .then((res)=>res.json())
-        .then((res)=>setInput(res))
-        .catch((err)=>console.log(err))
-    },[])
+            .then((res) => res.json())
+            .then((res) => setInput(res))
+            .catch((err) => console.log(err))
+    }, [])
 
-    React.useEffect(()=>{
+    React.useEffect(() => {
         fetch(`http://localhost:3005/products`)
-        .then((res)=>res.json())
-        .then((res)=>setdata(res))
-        .catch((err)=>console.log(err))
-    },[])
+            .then((res) => res.json())
+            .then((res) => setdata(res))
+            .catch((err) => console.log(err))
+    }, [])
 
 
     const HandleChange = (e) => {
@@ -84,14 +84,15 @@ const InputTaking = () => {
                 <input type="submit" className="button" />
 
             </form>
-<div>
-    {
-        getdata.map((item)=>(
-            <h1>{item.title}</h1>
-        ))
-    }
-</div>
-     
+            <div id="table">
+                {
+                    getdata.map((item) => (
+                        <h1>{item.title}</h1>
+                      
+                    ))
+                }
+            </div>
+
 
         </>
 
