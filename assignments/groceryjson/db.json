@@ -1,0 +1,39 @@
+{
+  "Grocery": [
+    {
+      "title": "hin",
+      "status": false,
+      "id": "5de99bf0-36d0-4279-8564-90f274476e7e"
+    },
+    {
+      "title": "hin",
+      "status": false,
+      "id": "392534c9-f2a7-4bd8-8572-9224a65151d9"
+    },
+    {
+      "title": "chinni",
+      "status": false,
+      "id": "fc803fb8-8192-4a06-953b-ad07cf18b4fe"
+    },
+    {
+      "title": "madhavi",
+      "status": false,
+      "id": "f59c65f9-799f-42c0-ac6f-025167cd518d"
+    },
+    {
+      "title": "madhavi",
+      "status": false,
+      "id": "d26d3b83-8f0c-4c31-99b9-5b5230299c78"
+    },
+    {
+      "title": "ali",
+      "status": false,
+      "id": "419e22fb-b760-47b5-8604-516eb3ce82dc"
+    },
+    {
+      "title": "ml,",
+      "status": false,
+      "id": "889d4d95-029a-45b8-b39a-26412a4ffd87"
+    }
+  ]
+}
