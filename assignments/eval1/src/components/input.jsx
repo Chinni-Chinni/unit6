@@ -87,7 +87,14 @@ const InputTaking = () => {
             <div id="table">
                 {
                     getdata.map((item) => (
-                        <h1>{item.title}</h1>
+                        <div className="inside-table">
+                            <h1>{item.title}</h1>
+                            <h2>{item.price}</h2>
+                            <h3>{item.gender}</h3>
+                            <h4>{item.category}</h4>
+                            {/* <h4 >{item.image}</h4> */}
+                            <img src={item.image}></img>
+                        </div>
                       
                     ))
                 }
