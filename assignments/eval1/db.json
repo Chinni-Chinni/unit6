@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "title": "fdfdgsf",
+      "gender": "Male",
+      "price": "fsg",
+      "category": "fsfg",
+      "image": "https://www.junglescout.com/wp-content/uploads/2020/06/cathero.png",
+      "id": 1
+    },
+    {
+      "title": "fdfdgsf",
+      "gender": "Male",
+      "price": "fsg",
+      "category": "fsfg",
+      "image": "https://www.junglescout.com/wp-content/uploads/2020/06/cathero.png",
+      "id": 2
+    },
+    {
+      "title": "",
+      "gender": "",
+      "price": "",
+      "category": "",
+      "image": "",
+      "id": 3
+    }
+  ]
+}
