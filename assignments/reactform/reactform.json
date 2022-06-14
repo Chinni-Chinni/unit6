@@ -1,0 +1,86 @@
+{
+  "employee": [
+    {
+      "name": "Anantapur",
+      "Age": "ji",
+      "Address": "kl",
+      "department": "",
+      "Salary": "ereq",
+      "state": "false",
+      "id": 1
+    },
+    {
+      "name": "Anantapur",
+      "Age": "ji",
+      "Address": "kl",
+      "department": "",
+      "Salary": "ereq",
+      "state": "false",
+      "id": 2
+    },
+    {
+      "name": "Anantapur",
+      "Age": "ji",
+      "Address": "kl",
+      "department": "",
+      "Salary": "ereq",
+      "state": "false",
+      "id": 3
+    },
+    {
+      "name": "Anantapur",
+      "Age": "ji",
+      "Address": "kl",
+      "department": "",
+      "Salary": "ereq",
+      "state": "false",
+      "id": 4
+    },
+    {
+      "name": "Anantapur",
+      "Age": "ji",
+      "Address": "kl",
+      "department": "",
+      "Salary": "ereq",
+      "state": "false",
+      "id": 5
+    },
+    {
+      "name": "Anantapur",
+      "Age": "ji",
+      "Address": "kl",
+      "department": "",
+      "Salary": "ereq",
+      "state": "false",
+      "id": 6
+    },
+    {
+      "name": "Anantapur",
+      "Age": "ji",
+      "Address": "kl",
+      "department": "",
+      "Salary": "ereq",
+      "state": "false",
+      "id": 7
+    },
+    {
+      "name": "Anantapur",
+      "Age": "ji",
+      "Address": "kl",
+      "department": "",
+      "Salary": "ereq",
+      "state": "false",
+      "id": 8
+    },
+    {
+      "name": "Anantapur",
+      "Age": "ji",
+      "Address": "fgs",
+      "department": "finance",
+      "Salary": "ereq",
+      "state": "false",
+      "id": 9
+    }
+    
+  ]
+}
