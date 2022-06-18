@@ -1,0 +1,38 @@
+{
+  "loginDetails": [
+    {
+      "email": "enjarappachinni2001@gmail.com",
+      "password": "1234567890",
+      "id": 1
+    },
+    {
+      "email": "enjarappachinni2001@gmail.com",
+      "password": "1234567890",
+      "id": 2
+    }
+  ],
+  "Product": [
+    {
+        "name" : "SmartPhone",
+        "price": 30,
+        "id" : 0
+    },
+    {
+        "name" : "Watch",
+        "price" : 20,
+        "id" : 1
+    },
+    {
+        "name" : "Shirt",
+        "price" : 50,
+        "id" : 2
+    },
+    {
+        "name" : "Pants",
+        "price" : 100,
+        "id" : 3
+    }
+
+
+  ]
+}
