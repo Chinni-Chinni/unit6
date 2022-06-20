@@ -1,0 +1,67 @@
+{
+  "loginDetails": [
+    {
+      "email": "enjarappachinni2001@gmail.com",
+      "password": "1234567890",
+      "id": 1
+    },
+    {
+      "email": "enjarappachinni2001@gmail.com",
+      "password": "1234567890",
+      "id": 2
+    },
+    {
+      "email": "enjarappa@gamil.com",
+      "password": "345",
+      "id": 3
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 5
+    }
+  ],
+  "Product": [
+    {
+      "id": 1,
+      "name": "product-1",
+      "description": "This is product-1"
+    },
+    {
+      "id": 2,
+      "name": "product-2",
+      "description": "This is product-2"
+    },
+    {
+      "id": 3,
+      "name": "product-3",
+      "description": "This is product-3"
+    },
+    {
+      "id": 4,
+      "name": "product-4",
+      "description": "This is product-4"
+    },
+    {
+      "id": 5,
+      "name": "product-5",
+      "description": "This is product-5"
+    },
+    {
+      "id": 6,
+      "name": "product-6",
+      "description": "This is product-6"
+    },
+    {
+      "id": 7,
+      "name": "product-7",
+      "description": "This is product-7"
+    }
+  ],
+  "cart":[]
+}
